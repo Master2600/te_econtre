@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+ 
+  .bg-rosa-palido {
+    background-color: #d8d2d4; /* Reemplaza este valor con tu tono rosa pálido */
+  }
+
+
+
+  .footer {
+    background-color: #bebabd;
+    border-top: 1px solid #050f49;
+    padding: 10px;
+    text-align: center;
+  }
+  

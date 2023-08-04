@@ -1,0 +1,27 @@
+es:
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              taken: "El correo electrónico ya está en uso"
+        post:
+          attributes:
+            post:
+              required: "El campo 'Post' es obligatorio"
+            user:
+              required: "El campo 'User' es obligatorio"
+        attribute_names:
+          email: "Correo electrónico"
+          post: "Publicación"
+          user: "Usuario"
+      messages:
+        taken: "ya está en uso"
+        record_invalid: "La validación ha fallado: %{errors}"
+        blank: "no puede estar en blanco"
+        required: "debe estar presente"
+
+
+
+
